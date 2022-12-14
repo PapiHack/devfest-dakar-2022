@@ -1,6 +1,6 @@
 # DevFest Dakar Demo Code
 
-For better organisation, i use my gitlab for hosting the project.  
+For better organisation, i use my gitlab account for hosting the project.  
 You'll find it at <https://gitlab.com/devfest-dakar-2022>.
 
 ## Author
