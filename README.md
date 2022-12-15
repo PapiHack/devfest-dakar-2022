@@ -3,7 +3,9 @@
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 For better organisation, i use my gitlab account for hosting the project.  
-You'll find it at <https://gitlab.com/devfest-dakar-2022>.
+You'll find it at <https://gitlab.com/devfest-dakar-2022>.  
+
+The slides are also available here <https://meissa-devfest-dakar-2022-prez.netlify.app>.
 
 ## Author
 
