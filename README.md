@@ -15,7 +15,7 @@ There respective location are :
 
 - App Code ==> <https://github.com/PapiHack/devfest-dakar-2022-demo-app>.
 
-The slides are also available here <https://meissa-devfest-dakar-2022-prez.netlify.app>.
+The slides are also available at <https://meissa-devfest-dakar-2022-prez.netlify.app>.
 
 ## Author
 
