@@ -6,9 +6,9 @@ For better organisation and best practices purposes, i separate the `GitOps` rep
 
 There respective location are :
 
-- GitOps = <https://github.com/PapiHack/devfest-dakar-2022-demo-gitops>.
+- GitOps ==> <https://github.com/PapiHack/devfest-dakar-2022-demo-gitops>.
 
-- App Code = <https://github.com/PapiHack/devfest-dakar-2022-demo-app>.
+- App Code ==> <https://github.com/PapiHack/devfest-dakar-2022-demo-app>.
 
 The slides are also available here <https://meissa-devfest-dakar-2022-prez.netlify.app>.
 
