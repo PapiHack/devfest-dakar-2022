@@ -4,8 +4,11 @@
   <a href="https://gdg.community.dev/events/details/google-gdg-dakar-presents-devfest-dakar-22/" target="blank"><img src="./screenshots/devfest-2022.png" width="200" alt="Devfest-2022" /></a>
 </p>
 
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)  
+![Issues](https://img.shields.io/github/issues/PapiHack/devfest-dakar-2022?style=for-the-badge&logo=appveyor)
+![PR](https://img.shields.io/github/issues-pr/PapiHack/devfest-dakar-2022?style=for-the-badge&logo=appveyor)
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](./LICENSE)
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 For better organisation and best practices purposes, i separate the `GitOps` repository from the `Application code` repository.  
 
